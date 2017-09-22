@@ -1,8 +1,8 @@
 {
-  "name": "tunk-isolation",
+  "name": "tunk-watch",
   "version": "3.0.0",
-  "description": "数据传入store和从store取出的时候实现引用隔离，避免误操作引起非预期的数据变更",
-  "main": "tunk-isolation.js",
+  "description": "",
+  "main": "tunk-watch.js",
   "author": "steven chen <522702986@qq.com>",
   "license": "MIT",
   "scripts": {
